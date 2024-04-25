@@ -10,9 +10,9 @@ function Home() {
     <div>
         <Header/>
         <Search/>
-        <IntroPost/>
-        <Blogs/>
-        <Footer/>
+        {/* <IntroPost/> */}
+        {/* <Blogs/> */}
+        {/* <Footer/> */}
     </div>
   )
 }
